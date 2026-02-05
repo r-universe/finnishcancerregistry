@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "directadjusting"]
+	path = directadjusting
+	url = https://github.com/finnishcancerregistry/directadjusting
 [submodule "popEpi"]
 	path = popEpi
 	url = https://github.com/finnishcancerregistry/popepi
